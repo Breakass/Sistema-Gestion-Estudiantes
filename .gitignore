@@ -1,0 +1,11 @@
+# NetBeans / Ant build artifacts
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled class files
+*.class
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
